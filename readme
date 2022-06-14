@@ -1,0 +1,3 @@
+clean code has clean code : main (params) -- run xde (bc, anchors) -- xde -- pde
+data_central has truth data
+code_base/post_proc has Loss and GlobalError plots as functions of xde_params and data_params

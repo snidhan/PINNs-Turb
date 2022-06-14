@@ -1,0 +1,4 @@
+#     nn_param 		    xde_param 				  data_param  
+      lr lyr wid actv	    epchs n     wp1 wp2 wp3   wa      nxm   nym    bctype
+      1e-4 4 20 1           5e4   30    0   0   0     1e2	  0     40     0
+

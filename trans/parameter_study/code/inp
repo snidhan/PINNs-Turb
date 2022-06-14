@@ -1,0 +1,3 @@
+#     nn_param 			xde_param 		data_param  
+#     lr, lyr, wid, actv	epchs, n, lossw		nxm  nym   alpha   beta
+      1e-3 8 20 1               3e3 30 1e2	     	5    64    4       0.5

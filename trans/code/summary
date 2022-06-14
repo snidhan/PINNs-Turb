@@ -1,0 +1,10 @@
+      lr lyr wid actv           epchs n  lossw              nxm  nym   alpha   beta bctype
+      1e-4 4 20 1               1e5   50 1e2                2    64    4       0.5  1
+         u          v          p         uu         uv         vv
+    7.2527     107.91     370.67      69.33     28.902     30.457
+
+      lr lyr wid actv           epchs n  lossw              nxm  nym   alpha   beta bctype
+      1e-4 4 20 1               1e5   50 1e2                4    64    4       0.5  1
+       nxm          u          v          p         uu         uv         vv
+         4     3.1738     25.144     74.017      16.49     18.407     12.602
+         8    0.65607     7.2363        108     5.7817     2.0817     3.3255
